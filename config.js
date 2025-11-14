@@ -12,7 +12,7 @@ var config = {
         "Luôn luôn xinh đẹp, tự tin",
         "Sớm ngày thoát ế như bao lần bốc phét",
         "Chúc bạn sẽ có 1 tuổi mới tràn đầy những điều chưa biết!",
-        "Schön, dass du geboren wurdest! - Chúc bạn sinh nhật vui vẻ",
+        "Schön, dass du geboren wurdest! \n Chúc bạn sinh nhật vui vẻ",
     ],
     imgs: {
         "Bạn của tôi": "./imgs/image_1.png",
@@ -26,7 +26,7 @@ var config = {
         "Luôn luôn xinh đẹp, tự tin": "./imgs/image_9.png",
         "Sớm ngày thoát ế như bao lần bốc phét": "./imgs/image_10.png",
         "Chúc bạn sẽ có 1 tuổi mới tràn đầy những điều chưa biết!": "./imgs/image_11.png",
-        "Schön, dass du geboren wurdest! - Chúc bạn sinh nhật vui vẻ": "./imgs/image_12.png",
+        "Schön, dass du geboren wurdest! \n Chúc bạn sinh nhật vui vẻ": "./imgs/image_12.png",
     },
     desc: {
         turn_on: "Hơi tối, bật đèn lên đi",
