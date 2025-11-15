@@ -11,7 +11,7 @@ var config = {
         "Luôn luôn gặp may mắn",
         "Luôn luôn xinh đẹp, tự tin",
         "Sớm ngày thoát ế như bao lần bốc phét",
-        "Chúc bạn sẽ có 1 tuổi mới tràn đầy những điều chưa biết!",
+        "Chúc bạn sẽ có 1 tuổi mới ngập tràn những niềm vui chưa biết!",
         "Schön, dass du geboren wurdest! <br> Chúc bạn sinh nhật vui vẻ",
     ],
     imgs: {
@@ -25,7 +25,7 @@ var config = {
         "Luôn luôn gặp may mắn": "./imgs/image_8.png",
         "Luôn luôn xinh đẹp, tự tin": "./imgs/image_9.png",
         "Sớm ngày thoát ế như bao lần bốc phét": "./imgs/image_10.png",
-        "Chúc bạn sẽ có 1 tuổi mới tràn đầy những điều chưa biết!": "./imgs/image_11.png",
+        "Chúc bạn sẽ có 1 tuổi mới ngập tràn những niềm vui chưa biết!": "./imgs/image_11.png",
         "Schön, dass du geboren wurdest! <br> Chúc bạn sinh nhật vui vẻ": "./imgs/image_12.png",
     },
     desc: {
